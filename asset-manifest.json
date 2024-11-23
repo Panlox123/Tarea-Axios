@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tarea-Axios/static/css/main.a76818d7.css",
+    "main.js": "/Tarea-Axios/static/js/main.84837e92.js",
+    "static/js/453.53771163.chunk.js": "/Tarea-Axios/static/js/453.53771163.chunk.js",
+    "index.html": "/Tarea-Axios/index.html",
+    "main.a76818d7.css.map": "/Tarea-Axios/static/css/main.a76818d7.css.map",
+    "main.84837e92.js.map": "/Tarea-Axios/static/js/main.84837e92.js.map",
+    "453.53771163.chunk.js.map": "/Tarea-Axios/static/js/453.53771163.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a76818d7.css",
+    "static/js/main.84837e92.js"
+  ]
+}
